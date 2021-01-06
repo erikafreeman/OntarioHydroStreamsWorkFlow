@@ -8,5 +8,6 @@ Ctrl+/ to comment out blocks of code.
 python-geospatial environment with base:conda 
 3. Manjaro Linux 
 4. WhiteboxTools 
-#Source for whiteboxtools: https://www.uoguelph.ca/~hydrogeo/WhiteboxTools/index.html
-#https://jblindsay.github.io/wbt_book/intro.html
+#Source for whiteboxtools: 
+https://www.uoguelph.ca/~hydrogeo/WhiteboxTools/index.html
+https://jblindsay.github.io/wbt_book/intro.html
